@@ -5,7 +5,8 @@ public class A21 {
 	{
 
        System.out.println("Ram");
-
+		 System.out.println("Mayur");
+       
 	}
 
 }
